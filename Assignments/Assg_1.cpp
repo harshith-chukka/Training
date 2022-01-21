@@ -182,7 +182,7 @@ int main(){
             default:
                 lab: 
                     cout<<"\nInvalid Entry\n";
-
+ 
         }
 
     }
