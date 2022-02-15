@@ -1,0 +1,3 @@
+/home/rently/Documents/rough/build/CMakeFiles/rebuild_cache.dir
+/home/rently/Documents/rough/build/CMakeFiles/edit_cache.dir
+/home/rently/Documents/rough/build/CMakeFiles/Assg_2.dir
